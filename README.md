@@ -1,5 +1,5 @@
 # Strava Replay Proof of Concept
 This demonstrates the use of:
-\n-the gpxpy library to parse gpx files
+<br />-the gpxpy library to parse gpx files
 -matplotlib to plot coordinates
 -tilemapbase for mapping tiles
